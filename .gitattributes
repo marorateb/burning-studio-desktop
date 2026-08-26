@@ -1,0 +1,13 @@
+*.ico binary
+
+*.json linguist-detectable=false
+*.ts linguist-detectable
+
+public/index.html linguist-vendored
+*.tsx linguist-detectable
+node_modules/* linguist-vendored
+
+vendor/* linguist-vendored
+
+dist/* linguist-vendored
+*.htm linguist-vendored
