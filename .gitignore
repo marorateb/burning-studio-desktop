@@ -1,0 +1,9 @@
+.pnpm-store/
+build/
+*.log
+coverage/
+node_modules/
+npm-debug.log*
+.cache/
+.env
+*.tgz
